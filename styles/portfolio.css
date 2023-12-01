@@ -180,3 +180,38 @@ section{
     text-align: center;
     margin-bottom: 30px;
 }
+
+/* contract styles */
+
+.contract{
+    display: flex;
+    gap: 100px;
+    background: #fff8f3;
+    padding: 130px 200px;
+}
+
+.contract a{
+    text-decoration: none;
+}
+
+.contract .section-titel{
+    text-align: left;
+}
+
+.contract input, textarea{
+    margin-bottom: 15px;
+    border: 0;
+    
+    padding: 18px 30px;
+    
+}
+
+.contract input,textarea{
+    margin-bottom: 24px;
+    border: 0;
+
+}
+
+input{
+    height: 64px;
+}
